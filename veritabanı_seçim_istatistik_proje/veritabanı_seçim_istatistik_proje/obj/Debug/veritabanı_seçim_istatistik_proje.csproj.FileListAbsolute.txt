@@ -1,0 +1,11 @@
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\veritabanı_seçim_istatistik_proje\veritabanı_seçim_istatistik_proje\bin\Debug\veritabanı_seçim_istatistik_proje.exe.config
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\veritabanı_seçim_istatistik_proje\veritabanı_seçim_istatistik_proje\bin\Debug\veritabanı_seçim_istatistik_proje.exe
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\veritabanı_seçim_istatistik_proje\veritabanı_seçim_istatistik_proje\bin\Debug\veritabanı_seçim_istatistik_proje.pdb
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\veritabanı_seçim_istatistik_proje\veritabanı_seçim_istatistik_proje\obj\Debug\veritabanı_seçim_istatistik_proje.csprojAssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\veritabanı_seçim_istatistik_proje\veritabanı_seçim_istatistik_proje\obj\Debug\veritabanı_seçim_istatistik_proje.FrmGrafik.resources
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\veritabanı_seçim_istatistik_proje\veritabanı_seçim_istatistik_proje\obj\Debug\veritabanı_seçim_istatistik_proje.vtg.resources
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\veritabanı_seçim_istatistik_proje\veritabanı_seçim_istatistik_proje\obj\Debug\veritabanı_seçim_istatistik_proje.Properties.Resources.resources
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\veritabanı_seçim_istatistik_proje\veritabanı_seçim_istatistik_proje\obj\Debug\veritabanı_seçim_istatistik_proje.csproj.GenerateResource.cache
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\veritabanı_seçim_istatistik_proje\veritabanı_seçim_istatistik_proje\obj\Debug\veritabanı_seçim_istatistik_proje.csproj.CoreCompileInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\veritabanı_seçim_istatistik_proje\veritabanı_seçim_istatistik_proje\obj\Debug\veritabanı_seçim_istatistik_proje.exe
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\veritabanı_seçim_istatistik_proje\veritabanı_seçim_istatistik_proje\obj\Debug\veritabanı_seçim_istatistik_proje.pdb
